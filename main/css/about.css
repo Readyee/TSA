@@ -1,0 +1,13 @@
+.back{
+    background-color: rgb(255, 255, 255);
+    border: 2px double rgb(0, 0, 0);
+    width: 90px;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
